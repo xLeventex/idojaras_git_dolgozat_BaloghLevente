@@ -47,6 +47,14 @@ table
 	border: 3px solid black;
 }
 
+.szurke {
+	text-transform: lowercase;
+	text-align: center;
+	color: #808183;
+	font-weight: bold;
+	text-decoration: none;
+}
+
 hr
 {
 	background-color:#243f84;
