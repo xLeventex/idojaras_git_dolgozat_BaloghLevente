@@ -23,6 +23,11 @@ body
 	box-shadow: 10px -5px 20px 0px rgba(0,0,0,0.5);
 }
 
+h1, h2 {
+	color: #243f84;
+	text-transform: uppercase;
+}
+
 p
 {
 	text-align:justify;
