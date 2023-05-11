@@ -95,3 +95,7 @@ input
 	float: right;
 	clear: both;
 }
+
+form {
+	margin: 2%;
+}
