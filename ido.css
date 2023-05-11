@@ -99,3 +99,7 @@ input
 form {
 	margin: 2%;
 }
+
+input:active {
+     background-color: #808183;
+}
