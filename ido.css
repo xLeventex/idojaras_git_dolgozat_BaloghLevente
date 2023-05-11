@@ -26,11 +26,12 @@ body
 h1, h2 {
 	color: #243f84;
 	text-transform: uppercase;
+	margin: 2%;
 }
 
 .csik {
-	margin: 0;
-	width: 100%;
+	margin: auto;
+	width: 98%;
 	height: 2px;
 	background-color: black;
 }
@@ -38,6 +39,7 @@ h1, h2 {
 p
 {
 	text-align:justify;
+	margin: 2%;
 }
 
 table
@@ -70,6 +72,8 @@ img
 ul
 {
 	font-size:small ;
+	list-style-image: url(/nap.png);
+	margin-left: 10%;
 }
 
 input
