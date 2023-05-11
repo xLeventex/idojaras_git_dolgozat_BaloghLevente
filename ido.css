@@ -35,6 +35,8 @@ dl {
 	text-decoration: underline;
 }
 
+
+
 .csik {
 	margin: auto;
 	width: 98%;
@@ -86,4 +88,10 @@ input
 {
 	font-size:medium;
 	margin-top:2%;
+}
+
+#fel {
+	width: 5vw;
+	float: right;
+	clear: both;
 }
